@@ -16,7 +16,9 @@ This project originated as a simple 8-bit architecture designed for the game `Tu
 
    - **[Kotlin Simulator](https://github.com/huskyto/rail-arch-kt):** A versatile simulator written in Kotlin. This simulator also includes an assembler, and its JVM-based nature makes it run on a wide variety of platforms.
 
-4. **[Ingame architecture](ingame-arch.jpg):** A screenshot of the architecture ingame is currently included.
+4. **[ASM Examples](asm-examples/):** Some simple ASM examples to get a better feel of how the architecture and the ASM works.
+
+5. **[Ingame architecture](ingame-arch.jpg):** A screenshot of the architecture ingame is currently included.
 The save of the architecture itself will be added at a later time, so code can be run there as well, if you wish to do so.
 
 ## Future Plans
