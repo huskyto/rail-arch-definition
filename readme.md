@@ -8,7 +8,7 @@ This project originated as a simple 8-bit architecture designed for the game `Tu
 
 1. **[Architecture Definition](rail-arch-definition.md):** This document provides a comprehensive overview of the Rail Architecture, detailing its structure, operational codes, systems, and registers. It's an excellent place to start to get a grasp of how the architecture works.
 
-2. **[Assembly Language Definition](rail-arch-asm.md):** Here, you'll find the specifics of the assembly language designed for the Rail architecture. This document includes a comprehensive list of commands and their corresponding operational codes, along with examples and usage notes.
+2. **[Assembly Language Definition](rail-arch-asm.md):** Here, you'll find the specifics of the assembly language designed for the Rail architecture. This document includes a comprehensive list of commands and their corresponding operational codes, along with examples and usage notes. You can also take a look at the [ASM Version 2](rail-arch-asm-v2.md).
 
 3. **Simulators:** There are two simulators available to allow you to experiment with the Rail architecture and run code crafted for it:
 
